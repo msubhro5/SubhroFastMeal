@@ -1,0 +1,21 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+    background-color: rgb(10, 31, 31);
+    height: 5.1rem;
+    box-shadow: 0 0 .5rem snow;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    a{
+        color: snow;
+        font-size: 2rem;
+        text-decoration: none;
+    }
+    a:hover{
+        text-shadow: 0 0 .2rem snow;
+    }
+}

@@ -1,0 +1,66 @@
+.btn_1{
+    padding: .5rem 1rem;
+    margin: .5rem;
+    outline: none;
+    border: .3rem solid crimson;
+    font-weight: bold;
+    background-color: crimson;
+    border-radius: 1rem;
+    color: snow;
+}
+.btn_1:hover{
+    border: .3rem solid yellow;
+    background-color: yellow;
+    color: darkslategray;
+}
+.btn_2{
+    padding: .2rem .5rem;
+    margin: .2rem .5rem;
+    font-size: 1.5rem;
+    outline: none;
+    border: .3rem solid crimson;
+    font-weight: bold;
+    background-color: crimson;
+    border-radius: 1rem;
+    color: snow;
+}
+.btn_2:hover{
+    border: .3rem solid crimson;
+    background-color: snow;
+    color: crimson;
+}
+.btn_3{
+    display: block;
+    width: 85%;
+    margin: 2rem auto;
+    font-size: 2rem;
+    padding: 1rem;
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+    border-radius: 2rem;
+    outline: none;
+    border: .3rem solid crimson;
+    font-weight: bold;
+    background-color: crimson;
+    color: snow;
+}
+.btn_3:hover{
+    border: .3rem solid crimson;
+    background-color: snow;
+    color: crimson;
+}
+.btn_4{
+    padding: .5rem 1rem;
+    margin: .5rem;
+    outline: none;
+    border: .3rem solid crimson;
+    font-weight: bold;
+    background: transparent;
+    border-radius: 1rem;
+    color: snow;
+}
+.btn_4:hover{
+    border: .3rem solid yellow;
+    background-color: yellow;
+    color: darkslategray;
+}
